@@ -19,4 +19,7 @@ Librarizz is a command-line based Library Management System designed to manage a
 - Agres, Zyrach Adrian A.
 - Guernaldo, Mardyson Justin D.
 - Lejano, Nathaniel O.
-- 
+
+## Course Information <br/>
+Course: Data Structures and Algorithm<br/>
+Course Facilitator: Mr. Maurice Oliver Dela Cruz
